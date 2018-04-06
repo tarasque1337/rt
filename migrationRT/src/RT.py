@@ -118,7 +118,7 @@ class DB:
             rest.post_ip(net)
     
     def get_infrastructure(self):
-test
+
         buildings_map = {}
         rooms_map = {}
         rows_map = {}
